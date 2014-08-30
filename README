@@ -1,0 +1,17 @@
+Mal1t1a - Hero Enabler and Hero Disabler
+
+Version: 1.0.0.0}
+
+Created by: Mal1t1a
+
+Description:
+This application allows for you to easily create the activelist.txt file using a GUI to assist your hero selection.
+
+Features:
+One-click buttons for  enabling/disabling all heroes, enabling/disabling all agility, intelligence or strength heroes.
+
+Important notice:
+In order for the activelist.txt file to change the selection of heroes in-game, you must launch dota2 using the "-override_vpk" arguement.
+
+Privacy:
+The "auto detect" feature is just a pre-set directory pathing via pattern. It only checks {0}:\Program Files\Steam\, {0}:\Program Files (x86)\Steam\ and {0}:\Steam where {0} is replaced with drive letters C - Z. When a valid directory is found, the program then checks for the directory: \SteamApps\common\dota 2 beta\dota\scripts\NPC which when found confirms that a valid Dota 2 installation. It will then perform one more check relative to to this directory: scripts\ It looks for a directory named: NPC If the NPC directory does not exist, it creates it for you automatically. Inside this folder it will place the activelist.txt file which contains the contents of the textbox on the Settings page.

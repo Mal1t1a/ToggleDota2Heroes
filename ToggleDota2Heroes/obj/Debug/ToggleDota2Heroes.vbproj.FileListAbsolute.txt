@@ -1,0 +1,11 @@
+c:\users\myles\documents\visual studio 2013\Projects\ToggleDota2Heroes\ToggleDota2Heroes\bin\Debug\ToggleDota2Heroes.exe.config
+c:\users\myles\documents\visual studio 2013\Projects\ToggleDota2Heroes\ToggleDota2Heroes\bin\Debug\ToggleDota2Heroes.exe
+c:\users\myles\documents\visual studio 2013\Projects\ToggleDota2Heroes\ToggleDota2Heroes\bin\Debug\ToggleDota2Heroes.pdb
+c:\users\myles\documents\visual studio 2013\Projects\ToggleDota2Heroes\ToggleDota2Heroes\bin\Debug\ToggleDota2Heroes.xml
+c:\users\myles\documents\visual studio 2013\Projects\ToggleDota2Heroes\ToggleDota2Heroes\obj\Debug\ToggleDota2Heroes.FrmMain.resources
+c:\users\myles\documents\visual studio 2013\Projects\ToggleDota2Heroes\ToggleDota2Heroes\obj\Debug\ToggleDota2Heroes.FrmToggleHeroes.resources
+c:\users\myles\documents\visual studio 2013\Projects\ToggleDota2Heroes\ToggleDota2Heroes\obj\Debug\ToggleDota2Heroes.Resources.resources
+c:\users\myles\documents\visual studio 2013\Projects\ToggleDota2Heroes\ToggleDota2Heroes\obj\Debug\ToggleDota2Heroes.vbproj.GenerateResource.Cache
+c:\users\myles\documents\visual studio 2013\Projects\ToggleDota2Heroes\ToggleDota2Heroes\obj\Debug\ToggleDota2Heroes.exe
+c:\users\myles\documents\visual studio 2013\Projects\ToggleDota2Heroes\ToggleDota2Heroes\obj\Debug\ToggleDota2Heroes.xml
+c:\users\myles\documents\visual studio 2013\Projects\ToggleDota2Heroes\ToggleDota2Heroes\obj\Debug\ToggleDota2Heroes.pdb
