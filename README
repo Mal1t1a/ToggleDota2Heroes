@@ -8,7 +8,8 @@ Description:
 This application allows for you to easily create the activelist.txt file using a GUI to assist your hero selection.
 
 Features:
-One-click buttons for  enabling/disabling all heroes, enabling/disabling all agility, intelligence or strength heroes.
+- One-click buttons for enabling/disabling all heroes, enabling/disabling all agility, intelligence or strength heroes.
+- Can enable Techies on main client for use in LAN Parties.
 
 Important notice:
 In order for the activelist.txt file to change the selection of heroes in-game, you must launch dota2 using the "-override_vpk" arguement.
